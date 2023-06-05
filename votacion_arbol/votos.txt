@@ -1,0 +1,7 @@
+{candidateId:1,candidate:Armando Castillo,department:Izabal,municipality:Livistong,num_table:1,num_votes:140
+candidateId:2,candidate:Carlos Pineda,department:Zacapa,municipality:Gualan,num_table:2,num_votes:640
+candidateId:3,candidate:Zury Rios,department:Escuintla,municipality:Escuintla,num_table:3,num_votes:490
+candidateId:4,candidate:Sandra Torres,department:Quetzaltenago,municipality:Salcaja,num_table:4,num_votes:530
+candidateId:5,candidate:Edmon Mulet,department:Sacatepequez,municipality:Antigua,num_table:5,num_votes:270
+candidateId:6,candidate:Amilcar lucas,department:Capital,municipality:Villa nueva,num_table:6,num_votes:150
+candidateId:7,candidate:Manuel Villacorta,department:San Marcos,municipality:Tecun Uman,num_table:7,num_votes:650
